@@ -1,0 +1,53 @@
+body {
+	background: rgb(101, 23, 88);
+	background: linear-gradient(
+		90deg,
+		rgba(101, 23, 88, 1) 0%,
+		rgba(48, 21, 96, 1) 35%,
+		rgba(46, 21, 91, 1) 70%
+	);
+	font-family: sans-serif;
+	margin-left: 30px;
+}
+
+h3 {
+	color: #ff1675;
+    font-size: 18px
+	margin-bottom: 100px;
+	margin-top: 45px;
+}
+
+h1 {
+    font-size: 44px;
+	color: white;
+	margin-right: 60%;
+	margin-bottom: 35px;
+    margin-top: 35px;
+}
+
+p {
+	color: white;
+	margin-right: 68%;
+}
+
+.aiai {
+	color: white;
+	margin-right: 20%;
+}
+
+img {
+	margin-right: 100%;
+	margin-bottom: 35px;
+}
+
+a {
+	color: white;
+	background-color: #ff1675;
+	padding: 19px;
+	text-decoration: none;
+    border-radius: 50px;
+}
+
+a:hover {
+    background-color: Mediumvioletred;
+}
